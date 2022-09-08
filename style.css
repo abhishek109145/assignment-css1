@@ -1,0 +1,36 @@
+.red{                
+    color:red;
+}
+
+.brown{
+    color:brown;
+    font-size: 17.4px;
+    font-weight: 490;
+
+}
+
+.yellow{
+     background-color: yellow;
+     
+}
+
+.w{
+    color:brown;
+    font-weight: 600;
+    font-size: 17.4px; 
+} 
+
+.n{
+    text-decoration: none;
+    font-style: italic;
+    color:red;
+    background-color: yellow;
+}
+
+.c{
+    letter-spacing: 5px;
+    font-size: large;
+    color:brown;
+    font-weight: 600;
+    
+}
